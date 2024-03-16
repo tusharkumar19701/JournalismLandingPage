@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JournalismLandingPage/static/css/main.2f6bb9dd.css",
-    "main.js": "/JournalismLandingPage/static/js/main.9ceb4cbd.js",
+    "main.css": "/JournalismLandingPage/static/css/main.36770f94.css",
+    "main.js": "/JournalismLandingPage/static/js/main.a049f2b7.js",
     "static/media/body-img.jpg": "/JournalismLandingPage/static/media/body-img.0fa7c580a5e380aa00a7.jpg",
     "static/media/about-img.jpg": "/JournalismLandingPage/static/media/about-img.24b0ce5741ab07a732fa.jpg",
     "index.html": "/JournalismLandingPage/index.html",
-    "main.2f6bb9dd.css.map": "/JournalismLandingPage/static/css/main.2f6bb9dd.css.map",
-    "main.9ceb4cbd.js.map": "/JournalismLandingPage/static/js/main.9ceb4cbd.js.map"
+    "main.36770f94.css.map": "/JournalismLandingPage/static/css/main.36770f94.css.map",
+    "main.a049f2b7.js.map": "/JournalismLandingPage/static/js/main.a049f2b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f6bb9dd.css",
-    "static/js/main.9ceb4cbd.js"
+    "static/css/main.36770f94.css",
+    "static/js/main.a049f2b7.js"
   ]
 }
