@@ -27,11 +27,11 @@ const Navbar = () => {
 
     </div>
         <div className="mobile-nav-items" style={show ? {display:"flex",transform:`translateY(${19}px)`,transition: "2s"} :{display:"none"}}>
-            <a href="#home">Home</a>
-            <a href="#about">About</a>
-            <a href="#courses">Courses</a>
-            <a href="#contact">Contact</a>
-            <a href="#footer">Footer</a>
+            <a href="#home" onClick={() => setShow(!show)}>Home</a>
+            <a href="#about" onClick={() => setShow(!show)}>About</a>
+            <a href="#courses" onClick={() => setShow(!show)}>Courses</a>
+            <a href="#contact" onClick={() => setShow(!show)}>Contact</a>
+            <a href="#footer" onClick={() => setShow(!show)}>Footer</a>
         </div>
 </nav>
   )

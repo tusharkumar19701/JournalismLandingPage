@@ -132,14 +132,14 @@
     justify-content: space-between;
     height: 100%;
     align-items: center;
-    padding: 3rem;
+    padding: 1rem;
     background-color: rgb(231, 231, 231);
  
     font-size: 32px;
 }
 
 .about-right {
-    max-width: 50%;
+    min-width: 50%;
     padding: 2rem;
 }
 .about-img {
@@ -436,8 +436,8 @@ footer{
     min-height: 10rem;
     background-color: black;
     position: relative;
-    left: -16;
-    width: 100vw;
+    left: -2rem;
+    width: 120%;
     padding: 2rem;
     z-index: -111;
     align-items: center;
@@ -506,6 +506,18 @@ footer{
         width: 50%;
         align-items: center;
     }
+    .body-left{
+        min-width: 100%;
+    }
+    .body-right{
+        min-width: 100%;
+    } img{
+        min-width: 90%;
+    }
+    .body-p{
+        min-width: 80%;
+    }
+
 
 }
 
@@ -546,6 +558,17 @@ footer{
     .link-wrapper{
         flex-direction: column;
     }
+    .body-left{
+        min-width: 100%;
+    }
+    .body-right{
+        min-width: 100%;
+    } img{
+        min-width: 90%;
+    }
+    .body-p{
+        min-width: 80%;
+    }
 }
 
 @media(max-width:600px) {
@@ -557,6 +580,9 @@ footer{
     }
     .footer-faded-text{
         font-size: 60px;
+    }
+    .body-p{
+        min-width: 90%;
     }
 }
 
@@ -571,5 +597,29 @@ footer{
     }
     .icon-wrapper{
         flex-direction: column;
+    }
+    .body-p{
+        min-width: 80%;
+        /* padding: 0; */
+    }
+    .about-right{
+        padding: 0;
+        margin-top: 1rem;
+        margin-left: 0;
+        margin-right: 0;
+        min-width: 100%;
+    }
+    .about-h2{
+        font-size: 35px;
+        /* margin-left: 1rem; */
+    }
+    .contactus-form-container{
+        justify-content: center;
+        align-items: center;
+        padding-right: 1rem;
+    }
+    .btn-pink{
+        font-size: 15px;
+        padding: 0.7rem 1.5rem;
     }
 }
