@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JournalismLandingPage/static/css/main.2f6bb9dd.css",
+    "main.js": "/JournalismLandingPage/static/js/main.9ceb4cbd.js",
+    "static/media/body-img.jpg": "/JournalismLandingPage/static/media/body-img.0fa7c580a5e380aa00a7.jpg",
+    "static/media/about-img.jpg": "/JournalismLandingPage/static/media/about-img.24b0ce5741ab07a732fa.jpg",
+    "index.html": "/JournalismLandingPage/index.html",
+    "main.2f6bb9dd.css.map": "/JournalismLandingPage/static/css/main.2f6bb9dd.css.map",
+    "main.9ceb4cbd.js.map": "/JournalismLandingPage/static/js/main.9ceb4cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6bb9dd.css",
+    "static/js/main.9ceb4cbd.js"
+  ]
+}
